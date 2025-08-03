@@ -1,6 +1,6 @@
 # 🛡️ QBCore Public Service (Kamu) Script
 
-This is a basic yet functional public service (kamu) script for **QBCore-based** FiveM servers. Designed for civil service-related roles and simple roleplay enhancements.
+This is a basic yet functional public service (kamu) script for **QBCore-based** FiveM servers. Designed for civil service-related roles and simple roleplay enhancements. This script is designed in Turkish please contact me if you want it to be changed into English.
 
 ## ⚙️ Features
 
