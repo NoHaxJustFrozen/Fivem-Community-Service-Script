@@ -17,4 +17,5 @@ Config.TaskVectors = {
     {type="broom", coords=vector4(158.51, -1002.3, 29.36, 66.73)},
 }
 
-Config.Webhook = "https://discord.com/api/webhooks/1400576943107211386/HKT7PUQsnDuJgsYH6QROW25zwA6QTeYHu_GnBd9l_5RwCz2qP4P_JhGl5OT-bk2f62SF"
+Config.Webhook = ""
+
